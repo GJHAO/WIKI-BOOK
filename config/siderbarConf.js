@@ -130,7 +130,7 @@ module.exports = [
     children: [
       "post/高效工作/文章排版规范",
       "post/高效工作/基于docsify搭建个人Wiki",
-      "post/高效工作/用Graphviz绘制关系图",
+      
       "post/高效工作/博客转至GitBook",
       "post/高效工作/浅谈Bitcron博客平台",
       "post/高效工作/RSS-高效率的阅读方式",
